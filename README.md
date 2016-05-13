@@ -1,7 +1,8 @@
 # mupdf-source
 这里提供mupdf开源库的源代码，并已为android平台编译好；
 
-MuPdf官方地址：http://mupdf.com/
+#MuPdf官方地址：http://mupdf.com/
+
 目前提供两个版本的mupdf开源库，mupdf-1.8-source和mupdf-1.9a-source;
 并已安装官方指导为android平台编译过；
 1.9a版本编译后的so库比较大，有17M左右，将近1.8及以前版本的两倍，所以在选择上酌情考虑；
