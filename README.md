@@ -28,3 +28,6 @@ mupdf-1.9a-source-compiled.7z解压可得到mupdf-1.9a-source目录；
   编译完成后，使用eclipse或android studio导入android demo（1.8版本为mupdf-1.8-source\platform\android目录，1.9a版本为mupdf-1.9a-source\platform\android\viewer目录），一般不需要做什么调整即可运行（如果无法直接运行，那就只能根据错误日志进行调整，一般比较简单）；
 #开发
   结合demo运行情况及其代码，重新开发自己需要的界面和功能即可；
+  
+  ![image1](https://github.com/ZhangSir/mupdf-source/blob/master/Screenshot_2016-05-16-14-33-44.jpeg)
+  ![image2](https://github.com/ZhangSir/mupdf-source/blob/master/Screenshot_2016-05-16-14-33-58.jpeg)
